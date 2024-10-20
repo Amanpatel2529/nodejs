@@ -1,0 +1,8 @@
+HTTP Methods : 
+  GET : - when you want to get some data from the server (browser by defaulty make's GET request to server)
+  POST : - when you want to send and mutate some data in server
+  PUT : -  when you want to update resources means entire data
+  PATCH : - when you want to change existed entry form db or server 
+  DELETE : -  when you want to delete data which is already exist at the server
+
+In 90% of the cases you will be using GET and POST request methods only, in majority cases you have get data or send data to server

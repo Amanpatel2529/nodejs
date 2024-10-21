@@ -1,0 +1,26 @@
+//version
+
+^4.21.1
+
+1st part -> 4
+2nd part -> 21
+3rd part -> 1
+
+//3rd part (last part) - Minor Fixes (Optional)
+ Latest - 4.21.2 
+
+//2nd part (middle part) - Recommended Bug Fix (Security Fix)
+Latest - 4.23.1
+
+//1st part (main part) - Major Fixes/Released (Breaking Update) 
+cautious while updating version to major version - it may can break your project code
+
+my current express version = ^4.21.1 (symbol ^ tell is compatible with version)
+means ^4.21.1 |  4.21.1 -> < 5.0.0 |
+
+^ = install all recommended and minor fixes automatically
+
+
+~4.21.1 means  -  strictly allow till 22 but not 22
+~ = approximately equivalent to version 
+
